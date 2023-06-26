@@ -44,3 +44,8 @@ const contactos = [
     for (let i = 0; i < contactos.length; i++) {
         console.log(contactos[2])
     }
+
+    let agregarContactos = 
+        contactos.push("556","susy anatolia","fernandez","504986441","honduras","la lima","entrada principal casa 3"); 
+
+    
